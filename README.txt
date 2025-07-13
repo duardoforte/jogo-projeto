@@ -21,9 +21,6 @@ Abra o Prompt de Comando ou o PowerShell na pasta do projeto e use um destes com
 
 python main.py
 
-ou, caso tenha o launcher do Python configurado:
-
-py main.py
 
 DICA: certifique-se de ter o PgZero instalado no seu ambiente Python:
 
