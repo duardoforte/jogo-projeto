@@ -1,9 +1,4 @@
 ▶️ Como Rodar o Jogo
-No Linux
-Abra um terminal dentro da pasta do projeto e execute:
-
-python3 main.py
-
 
 No Windows
 Abra o Prompt de Comando ou o PowerShell na pasta do projeto e use um destes comandos:
